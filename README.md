@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/5e6d6f35-4178-4483-8c3b-941ecc76090d/deploy-status)](https://app.netlify.com/sites/zen-mcnulty-aed260/deploys)
+
 ## ⚖️ Justice pour le peuple, door het volk 🏛️
 ### Website content
 Repo containing content from the website.
@@ -35,4 +37,4 @@ gatsby serve
 ## Deployment
 Clicking the button will ask for authentication via Github, which will create a repo in your github account with this starter. Then, it will build and deploy the site to Netlify.
 
-<a href="https://app.netlify.com/start/deploy?repository=https://github.com/v4iv/gatsby-starter-business&amp;stack=cms"><img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to Netlify"></a>
+<a href=""><img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to Netlify"></a>
