@@ -16,7 +16,7 @@ const HomePage = ({ data }) => {
         heading={frontmatter.heading}
         description={frontmatter.description}
         offerings={frontmatter.offerings}
-        testimonials={frontmatter.testimonials}
+        // testimonials={frontmatter.testimonials}
       />
     </Layout>
   )
