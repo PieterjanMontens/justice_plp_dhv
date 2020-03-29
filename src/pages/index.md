@@ -21,7 +21,6 @@ offerings:
       text: Public / privé / les citoyens
     - image: /img/meeting-space.png
       text: Overheid / privé / de burgers
-testimonials: []
 meta_title: 'Justice pour le peuple, door het volk'
 meta_description: >-
   Wie kan Justitie digitaliseren? Wie mag ? Qui sait informatiser la Justice ?
