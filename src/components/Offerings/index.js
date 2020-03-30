@@ -1,5 +1,6 @@
 import React from 'react'
 import PropTypes from 'prop-types'
+import { mdReact } from 'markdown-react-js';
 
 const Offerings = ({ gridItems }) => (
   <div className='columns is-multiline'>
@@ -9,7 +10,7 @@ const Offerings = ({ gridItems }) => (
           <p className='has-text-centered'>
             <img alt='' src={item.image} />
           </p>
-          <p>{item.text}</p>
+          <p>{ mdReact()(item.text) }</p>
         </section>
       </div>
     ))}

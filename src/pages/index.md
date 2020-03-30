@@ -9,13 +9,10 @@ offerings:
   blurbs:
     - image: /img/coffee.png
       text: >-
-
-        La loi modifiant le Code d'instruction criminelle et le Code judiciaire
-        en ce qui concerne la publication des jugements et des arrêts du (...)
+        La **loi modifiant la publication des jugements et des arrêts** du (...)
     - image: /img/coffee-gear.png
       text: >-
-        De wet tot wijziging van het Wetboek van strafvordering en het
-        Gerechtelijk Wetboek wat de bekendmaking van de vonnissen en arresten
+        De [wet tot wijziging de bekendmaking van de vonnissen en arresten](https://www.etaamb.be/nl/wet-van-05-mei-2019_n2019030485.html)
         van (...)
     - image: /img/tutorials.png
       text: Public / privé / les citoyens
