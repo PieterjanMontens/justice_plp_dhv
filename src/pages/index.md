@@ -99,7 +99,8 @@ offerings:
         Ma volonté est d'organiser et de rassembler les communs numériques
         nécessaires à un service complet de mise en ligne de jurisprudence à
         l'échelle nationale, en toute transparence. Des projets Open-Source
-        **dont la Justice pourra disposer, sans contrat, sans obligation, [sans
+        pleinement documentés **dont la Justice pourra disposer, sans contrat,
+        sans obligation, [sans
         *lock-in*](https://fr.wikipedia.org/wiki/Enfermement_propri%C3%A9taire)**,
         pour remplir efficacement la mission et le rôle qui lui est donné. Peu
         importe si la Justice la retiendra: elle aura au moins eu le choix, et
@@ -138,9 +139,9 @@ offerings:
 
         Mijn wens is om de nodige digitale commons te organiseren en te
         verzamelen voor een volledige service van online publicatie van
-        jurisprudentie op nationale schaal, in volledige transparantie.
-        Open-sourceprojecten **die het rechtssysteem zal kunnen inzetten en
-        beheren zonder contract, zonder verplichting, zonder
+        jurisprudentie op nationale schaal, in volledige transparantie. Volledig
+        gedocumenteerde open-sourceprojecten **die het rechtssysteem zal kunnen
+        inzetten en beheren zonder contract, zonder verplichting, zonder
         [lock-in](https://nl.wikipedia.org/wiki/Vendor_lock-in),** om de missie
         en de rol die ze heeft effectief te vervullen. Het maakt niet uit of
         Justitie het zal behouden: ze zal tenminste een keuze hebben gehad, en
