@@ -22,7 +22,7 @@ et un intérêt particulier pour tout ce que le [numérique](https://medium.com/
 
 * de [eerste](https://www.etaamb.be/nl/koninklijk-besluit-van-13-januari-2014_n2014000018.html) [e-procedure](http://www.raadvst-consetat.be/?page=e-procedure&lang=nl) in België (altijd de meest complete en trouwens de meest complete) gerealiseerd heeft ;
 * etaamb.be heeft ontwikkeld en gefinancierd gedurende de [afgelopen 10 jaar](http://etaamb.blogspot.com/2010/) ;
-* werkte in de wereld van digitale incubators en start-ups, [privé](https://www.thefaktory.com/) en bij de [overheid](https://beta.gouv.fr/);
+* werkte in de wereld van digitale incubators en start-ups, in de [privé](https://www.thefaktory.com/) maar ook bij de [overheid](https://beta.gouv.fr/);
 
 en een bijzonder belang heeft in alles wat de [digitalisatie](https://medium.com/@pieterjan_m/innovation-num%C3%A9rique-et-service-public-lapproche-agile-qui-fonctionne-4e1e85f2b4c1?source=friends_link&sk=29a32ba623b24c2e9daf433a53b2141b) en [innovatien](https://medium.com/@pieterjan_m/innovation-num%C3%A9rique-et-service-public-beta-gouv-fr-8173968c4793?sourcebddb9dcd9?) kunnen [asd](https://medium.com/@pieterjan_m/%C3%A9valuer-et-innover-au-sein-du-service-public-3ed951689739?source=friends_link&sk=38b7eae2a50c537f6f2d0480bef310d8) overheid  is buitengewoon pijnlijk om te zien dat Justitie stukje bij beetje wordt geprivatiseerd. Alsof het  *onvermijdelijk*  is.
 
