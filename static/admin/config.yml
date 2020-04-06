@@ -60,6 +60,15 @@ collections:
           - {label: Subtitle, name: subtitle, widget: string}
           - {label: "Meta Title", name: "meta_title", widget: "string"}
           - {label: "Meta Description", name: "meta_description", widget: "text"}
+      - file: "src/pages/subscribe/index.md"
+        label: "Subscribe Page"
+        name: "subscribe"
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "subscribe-page"}
+          - {label: Title, name: title, widget: string}
+          - {label: Subtitle, name: subtitle, widget: string}
+          - {label: "Meta Title", name: "meta_title", widget: "string"}
+          - {label: "Meta Description", name: "meta_description", widget: "text"}
   - name: "blog"
     label: "Blog"
     folder: "src/pages/blog"
