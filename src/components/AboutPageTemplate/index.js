@@ -1,6 +1,7 @@
 import React from 'react'
 import Content from '../Content'
 import PropTypes from 'prop-types'
+import { mdReact } from 'markdown-react-js';
 
 const AboutPageTemplate = ({ title, content, contentComponent }) => {
   const PageContent = contentComponent || Content
@@ -27,7 +28,7 @@ const AboutPageTemplate = ({ title, content, contentComponent }) => {
           <div className='columns'>
             <div className='column is-10 is-offset-1'>
               <div className='section'>
-                <PageContent className='content' content={content} />
+                <PageContent className='content' content={ mdReact()(content) } />
               </div>
             </div>
           </div>
