@@ -7,7 +7,7 @@ heading: >-
 description: Qui le fera pour le 1er septembre ? Wie doet het voor 1 september ?
 offerings:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/sq_3.jpg
       text: >-
         La **[loi modifiant la publication des jugements et des
         arrêts](https://www.etaamb.be/fr/loi-du-05-mai-2019_n2019030485.html)**
@@ -40,7 +40,7 @@ offerings:
         ? Jusqu’à profiter de [l'appui du Ministre de la
         justice](https://www.7sur7.be/belgique/l-informatisation-forcee-de-la-justice-voulue-par-koen-geens-n-etait-pas-legale~ad327db0/)
         ?
-    - image: /img/coffee-gear.png
+    - image: /img/sq_4.jpg
       text: >-
         De **[wet tot wijziging van de publicatie van vonnissen en
         vonnissen](https://www.etaamb.be/nl/wet-van-05-mei-2019_n2019030485.html)**
@@ -74,7 +74,7 @@ offerings:
         trekken](https://www.apache.be/2020/03/10/private-bedrijven-data-justitie/)
         ? Aangemoedigd [door de Minister van
         Justitie](https://www.nieuwsblad.be/cnt/dmf20191008_04651761) ?
-    - image: /img/tutorials.png
+    - image: /img/sq_1.jpg
       text: >-
         Je suis convaincu qu'il est possible de réagir **autrement** qu'en
         signant des pétitions, en relayant les nombreux appels à l'aide. Je
@@ -114,7 +114,7 @@ offerings:
         quo***, à remplir le formulaire d'appel à contribution. La justice dans
         notre pays à un besoin et une soif d'innovation: **chacun de nous peut y
         contribuer**.
-    - image: /img/meeting-space.png
+    - image: /img/sq_2.jpg
       text: >-
         Ik ben ervan overtuigd dat het mogelijk is om **anders** te reageren dan
         door petities te ondertekenen of door de vele oproepen door te geven. Ik
