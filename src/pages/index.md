@@ -2,9 +2,9 @@
 templateKey: home-page
 title: 'Justice pour le peuple, door het volk'
 heading: >-
-  Wie kan Justitie digitaliseren? Wie mag ? Qui sait informatiser la Justice ?
-  Qui peut ?
-description: Qui le fera pour le 1er septembre ? Wie doet het voor 1 september ?
+  Wie kan Justitie digitaliseren? Wie mag ?  - Qui sait informatiser la Justice
+  ? Qui le peut ?
+description: Et qui le fera pour le 1er septembre ? En wie doet het voor 1 september ?
 offerings:
   blurbs:
     - image: /img/rnd_4.jpg
@@ -17,17 +17,17 @@ offerings:
 
 
         Le développement de ce service, comme [l'atteste la
-        presse](https://www.apache.be/2020/03/09/justitie-talmt-met-digitale-database-voor-vonnissen-en-arresten/)
-        , prend du retard, pour autant qu'il progresse réellement. On devine
-        que, malgré l'urgence de changer de méthode, d'approche, et de procédé
-        en ce qui concerne l'informatisation de la Justice, que ce soit par
-        manque de moyens, de vision ou de capacité, **ce sont encore et toujours
-        les anciennes recettes qui sont appliquées**, avec le "succès" qu'on
-        leur connaît.
+        presse](https://www.apache.be/2020/03/09/justitie-talmt-met-digitale-database-voor-vonnissen-en-arresten/),
+        prend du retard, pour autant qu'il progresse réellement. On devine que,
+        malgré l'urgence de changer de méthode, d'approche, et de procédé en ce
+        qui concerne l'informatisation de la Justice, que ce soit par manque de
+        moyens, de vision ou de capacité, **ce sont encore et toujours les
+        anciennes recettes qui sont appliquées**, avec le "succès" qu'on leur
+        connaît.
 
 
         Une **Justice autonome et indépendante** se doit d'être en mesure de
-        fixer le cadre et contrôler ses données et les outils et algorithmes qui
+        fixer le cadre, contrôler ses données et les outils et algorithmes qui
         les traitent. Cette condition **est indispensable** pour que les Belges
         puissent avoir confiance dans les services numériques qu'elle propose.
 
@@ -44,9 +44,9 @@ offerings:
       text: >-
         De **[wet tot wijziging van de publicatie van vonnissen en
         vonnissen](https://www.etaamb.be/nl/wet-van-05-mei-2019_n2019030485.html)**
-        dwingt het rechtssysteem om met ingang van 1 september 2020
-        geanonimiseerde vonnissen en arresten met behulp van een **digitale
-        dienst** openbaar te maken.\
+        dwingt Justitie om met ingang van 1 september 2020 geanonimiseerde
+        vonnissen en arresten met behulp van een **digitale dienst** openbaar te
+        maken.\
 
         \
 
@@ -62,7 +62,7 @@ offerings:
         \
 
         Een **autonome en onafhankelijke Justitie** moet in staat zijn het kader
-        vast te stellen en haar gegevens en de instrumenten en algoritmen die ze
+        vast te stellen, de gegevens en de instrumenten en algoritmen die ze
         verwerken te controleren. Deze voorwaarde **is essentieel** voor de
         Belgen om vertrouwen te hebben in de digitale diensten die ze aanbiedt.\
 
@@ -77,14 +77,15 @@ offerings:
     - image: /img/rnd_1.jpg
       text: >-
         Je suis convaincu qu'il est possible de réagir **autrement** qu'en
-        signant des pétitions, en relayant les nombreux appels à l'aide. Je
-        propose non pas de lancer une alerte, de tenter de faire pression, de
-        donner des conseils: je propose de développer une solution. **Une
-        solution en Open Source**.
+        signant des pétitions, en relayant les nombreux appels à l'aide. Je ne
+        vais pas lancer d'alerte, tenter de faire pression, donner des
+        conseils... Je suis développeur: je propose de développer une solution.
+        **Une solution en Open Source**.
 
 
-        Mon expérience m'a fait apprécier la valeur de ce qu'on appelle les
-        [communs
+        [Mon
+        expérience](https://medium.com/@pieterjan_m/innovation-num%C3%A9rique-et-service-public-beta-gouv-fr-8173968c4793)
+        m'a fait apprécier la valeur de ce qu'on appelle les [communs
         numériques](https://fr.wikipedia.org/wiki/Biens_communs_num%C3%A9riques).
         Des briques logicielles développées par des personnes, des équipes,
         motivées, investies, capables et autonomes, **déployées et gérées par
@@ -111,50 +112,53 @@ offerings:
         s'engager** dans cette initiative, que vous travaillez dans
         l'élaboration de services numériques, dans la justice, que vous soyez
         étudiant, professionnel ou volontaire **pour faire bouger le *statu
-        quo***, à remplir le formulaire d'appel à contribution. La justice dans
-        notre pays à un besoin et une soif d'innovation: **chacun de nous peut y
-        contribuer**.
+        quo***, à** [remplir le formulaire d'appel à
+        contribution](/subscribe)**. La justice dans notre pays à un besoin et
+        une soif d'innovation: **chacun de nous peut y contribuer**.
     - image: /img/rnd_2.jpg
       text: >-
         Ik ben ervan overtuigd dat het mogelijk is om **anders** te reageren dan
-        door petities te ondertekenen of door de vele oproepen door te geven. Ik
-        ga niet voor een ​​waarschuwing te geven, om te proberen druk uit te
-        oefenen, om advies te geven: ik stel voor om een ​​oplossing te
-        ontwikkelen. **Een Open Source-oplossing**.\
+        door petities te ondertekenen of door de vele oproepen te ondersteunen.
+        Ik ga geen ​​waarschuwing lanceren, druk proberen uit te oefenen, of
+        advies proberen te geven... Ik ben een ontwikkelaar: ik stel voor om een
+        ​​oplossing te ontwikkelen. **Een Open Source-oplossing**.\
 
         \
 
-        Door mijn ervaring ben ik de waarde van zogenaamde [digital
+        Dankzij [mijn
+        ervaring](https://medium.com/@pieterjan_m/innovation-num%C3%A9rique-et-service-public-beta-gouv-fr-8173968c4793)
+        ben ik de waarde van zogenaamde [digital
         commons](https://en.wikipedia.org/wiki/Digital_commons_(economics)) gaan
-        waarderen. Softwarebakstenen ontwikkeld door mensen en teams die
-        gemotiveerd, geïnvesteerd, bekwaam en autonoom te werk gaan, en die
-        worden **ingezet en beheerd door de administratie, ten dienste van de
-        burgers**. Andere teams en administraties hergebruiken ze, verbeteren
-        ze, delen ze en genereren zo, zonder enig eigendom of beperking door het
-        zoeken naar rendement op financiële investeringen, openbare digitale
-        diensten van ongeëvenaarde kwaliteit, **met als enig doel kwaliteit van
-        de dienstverlening** aan de burger.\
+        appreciëren. Softwarebakstenen ontwikkeld door mensen en teams die
+        gemotiveerd, geïnvesteerd, bekwaam en autonoom te werk gaan, bakstenen
+        die worden **ingezet en beheerd door de administratie, ten dienste van
+        de burgers**. Andere teams en administraties hergebruiken ze, verbeteren
+        ze, delen ze en genereren zo, zonder enige licentie, eigendom of
+        beperkingen wegens te weinig rendabiliteit, openbare digitale diensten
+        van ongeëvenaarde kwaliteit, **met als enig doel kwaliteit van de
+        dienstverlening** aan de burger.\
 
         \
 
         Mijn wens is om de nodige digitale commons te organiseren en te
-        verzamelen voor een volledige service van online publicatie van
+        verzamelen voor een volledige dienst van online publicatie van
         jurisprudentie op nationale schaal, in volledige transparantie. Volledig
-        gedocumenteerde open-sourceprojecten **die het rechtssysteem zal kunnen
-        inzetten en beheren zonder contract, zonder verplichting, zonder
+        gedocumenteerde open-sourceprojecten **die Justitie zal kunnen inzetten
+        en beheren zonder contract, zonder verplichting, zonder
         [lock-in](https://nl.wikipedia.org/wiki/Vendor_lock-in),** om de missie
         en de rol die ze heeft effectief te vervullen. Het maakt niet uit of
-        Justitie het zal behouden: ze zal tenminste een keuze hebben gehad, en
-        ik hoop dat ze die zal motiveren.\
+        Justitie die effectief zal gebruiken: ze zal tenminste een keuze hebben
+        gehad, en ik hoop dat ze die zal motiveren.\
 
         \
 
         **Ik nodig iedereen uit die**, net zo verontwaardigd als ik, **bereid is
         zich in te zetten**, of je nu werkt aan de ontwikkeling van digitale
         diensten, voor justitie, of je nu student, professional of vrijwilliger
-        bent **om de status-quo te veranderen:** vul het **call for contribution
-        formulier in !** Justitie in ons land heeft behoefte aan en een honger
-        naar innovatie: **ieder van ons kan daar aan meewerken**.
+        bent **om de status-quo te veranderen:** vul het **[call for
+        contribution formulier in](/subscribe) !** Justitie in ons land heeft
+        behoefte aan en een honger naar innovatie: **ieder van ons kan daar aan
+        meewerken**.
 meta_title: 'Justice pour le peuple, door het volk'
 meta_description: >-
   Wie kan Justitie digitaliseren? Wie mag ? Qui sait informatiser la Justice ?
