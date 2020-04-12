@@ -1,14 +1,14 @@
 module.exports = {
   siteTitle: 'Justice: pour le peuple, door het volk',
   siteTitleAlt: 'voor het volk, par le peuple',
-  siteLogo: '/icons/icon-512x512.png',
+  siteLogo: '/icons/favicon-32x32.png',
   siteUrl: 'https://justice-pourlepeuple-doorhetvolk.be',
   pathPrefix: '', 
   siteDescription: 'Juste pour le peuple, par le peuple. Justitie voor het volk, door het volk',
   siteRss: '/rss.xml',
   siteFBAppID: '', // FB Application ID for using app insights
   googleTagManagerID: '',
-  disqusShortname: 'juste-pourlepeuple-doorhetvolk', // Disqus shortname.
+  disqusShortname: 'justice-pourlepeuple-doorhetvolk', // Disqus shortname.
   userName: 'Pieterjan Montens',
   userTwitter: '@pieterjan_m',
   userLocation: 'Belgium',

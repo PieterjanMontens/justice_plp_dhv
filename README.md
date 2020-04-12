@@ -14,7 +14,7 @@ It's a workin progress, nothing really interesting going on right now.
 - CDN distribution (netlify)
 - GraphQL, ...
 
-## Prerequisite
+## Prerequisites
 * Node
 * Gatsby CLI (globally installed)
 
