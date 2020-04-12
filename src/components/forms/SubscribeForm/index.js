@@ -1,22 +1,94 @@
 import React from 'react'
-import Mailchimp from 'react-mailchimp-form'
-// import { navigate } from 'gatsby-link'
+import addToMailchimp from 'gatsby-plugin-mailchimp'
+import { Link } from 'gatsby'
 
+export default class SubscribeForm extends React.Component {
+  state = {
+      FNAME: null,
+      LNAME: null,
+      email: null,
+  }
 
-const SubscribeForm = () => {
+  _handleChange = (e) => {
+      console.log({
+          [`${e.target.name}`]: e.target.value,
+      });
+      this.setState({
+          [`${e.target.name}`]: e.target.value,
+      });
+  }
+
+  _handleSubmit = (e) => {
+    e.preventDefault();
+    console.log('submit', this.state);
+    addToMailchimp(
+        this.state.email,
+        this.state) // listFields are optional if you are only capturing the email address.
+    .then(data => {
+      // I recommend setting data to React state
+      // but you can do whatever you want (including ignoring this `then()` altogether)
+      console.log(data)
+    })
+    .catch(() => {
+      // unnecessary because Mailchimp only ever
+      // returns a 200 status code
+      // see below for how to handle errors
+    })
+  }
+
+  render () {
     return (
-     <Mailchimp
-        action='https://justice-pourlepeuple-doorhetvolk.us19.list-manage.com/subscribe/post?u=0ed89b1eb272e1e012aed871a&amp;id=cc27552906'
-        fields={[
-          {
-            name: 'EMAIL',
-            placeholder: 'Email',
-            type: 'email',
-            required: true
-          }
-        ]}
-        />
-    );
+      <div className="columns is-centered">
+        <form onSubmit={this._handleSubmit} className="column is-8">
+          <div className="field is-horizontal">
+            <div className="field-label is-normal">
+              <label className="label" for="FNAME">Prénom / Voornaam</label>
+            </div>
+            <div className="field-label">
+              <div className="field">
+                <p className="control">
+                  <input type="text" placeholder="Charles" name="FNAME" id="FNAME" required="true" onChange={this._handleChange}/>
+                </p>
+              </div>
+              </div>
+          </div>
+          <div className="field is-horizontal">
+            <div className="field-label">
+               <label className="label" for="LNAME">Nom / Achternaam</label>
+            </div>
+            <div className="field-label">
+              <div className="field">
+                <p className="control">
+                  <input type="text" placeholder="Rogier" name="LNAME" id="LNAME" required="true" onChange={this._handleChange}/>
+                </p>
+              </div>
+            </div>
+          </div>
+
+          <div className="field is-horizontal">
+            <div className="field-label is-normal">
+               <label className="label" for="email">E-mail</label>
+            </div>
+            <div className="field-label">
+              <div className="field">
+                <p className="control">
+                  <input type="email" placeholder="charles.rogier@pre.gov.be" name="email" id="email" required="true" onChange={this._handleChange}/>
+                </p>
+              </div>
+            </div>
+          </div>
+          <div className="field is-grouped is-grouped-centered">
+            <p className="control">
+              <input type="submit" value="Envoyer / Doorsturen" className="button is-primary" />
+            </p>
+            <p className="control">
+              <Link className="button is-light" to='/'>Page d'accueil / Homepagina</Link>
+            </p>
+          </div>
+        </form>
+      </div>
+    )
+  }
 }
 
 export { SubscribeForm }

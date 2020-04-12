@@ -212,6 +212,12 @@ module.exports = {
         },
       },
     },
+    {
+      resolve: 'gatsby-plugin-mailchimp',
+      options: {
+          endpoint: 'https://justice-pourlepeuple-doorhetvolk.us19.list-manage.com/subscribe/post?u=0ed89b1eb272e1e012aed871a&amp;id=cc27552906', // add your MC list endpoint here; see instructions below
+      },
+    },
     `gatsby-plugin-netlify`,
   ],
 }
