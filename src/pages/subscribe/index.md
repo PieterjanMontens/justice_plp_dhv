@@ -1,7 +1,7 @@
 ---
 templateKey: subscribe-page
 title: Inscription / Inschrijving
-subtitle: Newsletter et plus / Nieuwsbrief en meer
+subtitle: Appel à Contribution / Call for Contribution
 meta_title: Newsletter et plus / Nieuwsbrief en meer
 meta_description: Newsletter et plus / Nieuwsbrief en meer
 ---
