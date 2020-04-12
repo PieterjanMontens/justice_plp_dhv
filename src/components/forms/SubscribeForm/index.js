@@ -77,6 +77,7 @@ export default class SubscribeForm extends React.Component {
               </div>
             </div>
           </div>
+          <br />
           <div className="field is-grouped is-grouped-centered">
             <p className="control">
               <Link className="button" to='/'>Page d'accueil / Homepagina</Link>
