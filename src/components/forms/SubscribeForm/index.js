@@ -1,6 +1,7 @@
 import React from 'react'
 import addToMailchimp from 'gatsby-plugin-mailchimp'
 import { Link } from 'gatsby'
+import { navigate } from 'gatsby-link'
 
 export default class SubscribeForm extends React.Component {
   state = {
@@ -24,10 +25,9 @@ export default class SubscribeForm extends React.Component {
     addToMailchimp(
         this.state.email,
         this.state) // listFields are optional if you are only capturing the email address.
-    .then(data => {
-      // I recommend setting data to React state
-      // but you can do whatever you want (including ignoring this `then()` altogether)
-      console.log(data)
+    .then((data) => {
+        // console.log(data)
+        navigate('/contact/success')
     })
     .catch(() => {
       // unnecessary because Mailchimp only ever

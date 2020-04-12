@@ -112,16 +112,16 @@ offerings:
         s'engager** dans cette initiative, que vous travaillez dans
         l'élaboration de services numériques, dans la justice, que vous soyez
         étudiant, professionnel ou volontaire **pour faire bouger le *statu
-        quo***, à** [remplir le formulaire d'appel à
-        contribution](/subscribe)**. La justice dans notre pays à un besoin et
+        quo***, à **[remplir le formulaire d'appel à
+        contribution](/subscribe)** ! La justice dans notre pays à un besoin et
         une soif d'innovation: **chacun de nous peut y contribuer**.
     - image: /img/rnd_2.jpg
       text: >-
         Ik ben ervan overtuigd dat het mogelijk is om **anders** te reageren dan
         door petities te ondertekenen of door de vele oproepen te ondersteunen.
-        Ik ga geen ​​waarschuwing lanceren, druk proberen uit te oefenen, of
+        Ik ga geen waarschuwing lanceren, druk proberen uit te oefenen, of
         advies proberen te geven... Ik ben een ontwikkelaar: ik stel voor om een
-        ​​oplossing te ontwikkelen. **Een Open Source-oplossing**.\
+        oplossing te ontwikkelen. **Een Open Source-oplossing**.\
 
         \
 
@@ -156,11 +156,11 @@ offerings:
         zich in te zetten**, of je nu werkt aan de ontwikkeling van digitale
         diensten, voor justitie, of je nu student, professional of vrijwilliger
         bent **om de status-quo te veranderen:** vul het **[call for
-        contribution formulier in](/subscribe) !** Justitie in ons land heeft
+        contribution formulier in](/subscribe)** ! Justitie in ons land heeft
         behoefte aan en een honger naar innovatie: **ieder van ons kan daar aan
         meewerken**.
 meta_title: 'Justice pour le peuple, door het volk'
 meta_description: >-
   Wie kan Justitie digitaliseren? Wie mag ? Qui sait informatiser la Justice ?
-  Qui peut ?
+  Qui le peut ?
 ---

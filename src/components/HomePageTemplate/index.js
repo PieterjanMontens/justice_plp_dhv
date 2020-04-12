@@ -2,6 +2,7 @@ import React from 'react'
 import Helmet from 'react-helmet'
 import Offerings from '../Offerings'
 import PropTypes from 'prop-types'
+import { Link } from 'gatsby'
 
 const HomePageTemplate = ({
   title,
@@ -25,6 +26,7 @@ const HomePageTemplate = ({
                 <h1 className='title'>
                   {title}
                 </h1>
+                <Link className="call_to_action"to='/subscribe'>Inscription Appel à Contribution / Inschrijving Call to Contribution</Link>
               </div>
             </div>
           </div>
