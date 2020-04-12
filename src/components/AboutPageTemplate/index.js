@@ -28,7 +28,8 @@ const AboutPageTemplate = ({ title, content, contentComponent }) => {
           <div className='columns'>
             <div className='column is-10 is-offset-1'>
               <div className='section'>
-                <PageContent className='content' content={ mdReact()(content) } />
+                { /* <PageContent className='content' content={ mdReact()(content) } /> */ }
+                <PageContent className='content' content={ content } />
               </div>
             </div>
           </div>

@@ -55,7 +55,7 @@ const ContactForm = () => {
         </div>
 
         <div className='field'>
-          <label className='label'>Email</label>
+          <label className='label'>E-mail</label>
           <div className='control'>
             <Field className='input' type='email' placeholder='Email' name='email' id='email' />
           </div>

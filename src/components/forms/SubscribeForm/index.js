@@ -38,7 +38,7 @@ export default class SubscribeForm extends React.Component {
 
   render () {
     return (
-      <div className="columns is-centered">
+      <div className="columns is-centered ">
         <form onSubmit={this._handleSubmit} className="column is-8">
           <div className="field is-horizontal">
             <div className="field-label is-normal">
@@ -79,10 +79,10 @@ export default class SubscribeForm extends React.Component {
           </div>
           <div className="field is-grouped is-grouped-centered">
             <p className="control">
-              <input type="submit" value="Envoyer / Doorsturen" className="button is-primary" />
+              <Link className="button" to='/'>Page d'accueil / Homepagina</Link>
             </p>
             <p className="control">
-              <Link className="button is-light" to='/'>Page d'accueil / Homepagina</Link>
+              <input type="submit" value="Envoyer / Doorsturen" className="button is-primary" />
             </p>
           </div>
         </form>
