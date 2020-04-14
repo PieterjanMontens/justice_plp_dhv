@@ -5,7 +5,8 @@ slug: le-commun-numerique
 date: 2020-04-14T08:09:14.256Z
 cover: /img/people-woman-coffee-meeting.jpg
 tags:
-  - français beta.gouv.fr
+  - français
+  - beta.gouv.fr
 meta_title: C'est quoi un Commun Numérique ?
 meta_description: >-
   Un commun numérique peut être défini comme étant un service fourni
