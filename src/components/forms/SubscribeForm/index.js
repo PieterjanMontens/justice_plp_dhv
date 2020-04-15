@@ -21,7 +21,6 @@ export default class SubscribeForm extends React.Component {
 
   _handleSubmit = (e) => {
     e.preventDefault();
-    console.log('submit', this.state);
     addToMailchimp(
         this.state.email,
         this.state) // listFields are optional if you are only capturing the email address.

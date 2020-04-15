@@ -39,10 +39,12 @@ const ArticlePage = ({ data }) => {
                 excerpt={post.frontmatter.meta_description}
               />
               <hr />
+              { /*
               <Disqus
                 title={post.frontmatter.title}
                 slug={post.fields.slug}
               />
+              */ }
             </div>
           </div>
         </div>

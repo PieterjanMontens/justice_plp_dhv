@@ -15,10 +15,10 @@ const ArticleTemplate = ({
   const PostContent = contentComponent || Content
   return (
     <div>
-      <h1 className='title is-size-2 has-text-weight-bold is-bold-light'>
+      <h1 className='title is-size-2 has-text-weight-bold is-bold-light blog'>
         {title}
       </h1>
-      <img src={cover} alt={title} />
+      <img className='blog_ill' src={cover} alt={title} />
       <PostContent content={content} />
       <div style={{ marginTop: `4rem` }}>
         <h4>Tags</h4>
