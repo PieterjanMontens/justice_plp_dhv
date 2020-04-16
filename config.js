@@ -8,7 +8,7 @@ module.exports = {
   siteRss: '/rss.xml',
   siteFBAppID: '', // FB Application ID for using app insights
   googleTagManagerID: '',
-  disqusShortname: 'justice-pourlepeuple-doorhetvolk', // Disqus shortname.
+  disqusShortname: 'justice-plp-dhv', // Disqus shortname.
   userName: 'Pieterjan Montens',
   userTwitter: '@pieterjan_m',
   userLocation: 'Belgium',
