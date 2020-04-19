@@ -36,7 +36,7 @@ A l'heure actuelle, [plp-dhv ](https://justice-pourlepeuple-doorhetvolk.be) prop
 
 Sont envisagés:
 * pour les dicussions: Slack ou discord (versions gratuites)
-* pour l'organisation: tuleap (auto-hébergé)
+* pour l'organisation: trello ou tuleap (auto-hébergé)
 * pour la collaboration: Google drive
 * une mailing list, qui reste bien plus accessible que la plupart des autres outils
 
@@ -54,15 +54,15 @@ Om organisatie en communicatie mogelijk te maken zijn er verschillende tools bes
 * blog en opmerkingen (disqus, jetpack): interne en externe uitzendingen, discussies en uitwisselingen
 * nieuwsbrief, mailinglijsten: distributie, communicatie
 
-Momenteel biedt [plp-dhv] (https://justice-pourlepeuple-doorhetvolk.be):
-* een [nieuwsbrief] (https://justice-pourlepeuple-doorhetvolk.be/subscribe/) waarop een wekelijks rapport wordt uitgezonden
-* een blog en reacties via [disqus] (https://disqus.com/)
-* een [twitter] account (https://twitter.com/DhvPlp)!
+Momenteel biedt [plp-dhv](https://justice-pourlepeuple-doorhetvolk.be):
+* een [nieuwsbrief](https://justice-pourlepeuple-doorhetvolk.be/subscribe/) waarop een wekelijks rapport wordt uitgezonden
+* een blog en reacties via [disqus](https://disqus.com/)
+* een [twitter](https://twitter.com/DhvPlp) account ?
 
 
 Worden overwogen:
 * voor discussies: Slack of discord (gratis versies)
-* voor de organisatie: tuleap (zelf gehost)
+* voor de organisatie: trello of tuleap (zelf gehost)
 * voor samenwerking: Google Drive
 * een mailinglijst, die veel toegankelijker blijft dan de meeste andere tools
 
