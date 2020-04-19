@@ -38,4 +38,8 @@ Deze eerste week leidde tot:
 * het opzetten van een [twitter](https://twitter.com/DhvPlp) account 
 * publicatie van de oproep tot bijdrage op etaamb.be en ook het opzetten van de eerste echt collaboratieve tool, de [trello](https://trello.com/b/RtFZkspO/orga) (een projectmanagementtool in kanban-stijl, efficiënt en veel gebruikt) ! 
 
- **Belangrijk** : als je mee wilt doen en wilt deelnemen aan het project, of als andere mensen om je heen geïnteresseerd zouden zijn, laat het me dan weten! Binnenkort wordt een opstart-team gevormd en iedereen die het ziet zitten kan deelnemen: D
+**Belangrijk** : als je mee wilt doen en wilt deelnemen aan het project, of als andere mensen om je heen geïnteresseerd zouden zijn, laat het me dan weten! Binnenkort wordt een opstart-team gevormd en iedereen die het ziet zitten kan deelnemen: D
+
+
+
+Pieterjan
