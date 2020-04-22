@@ -3,6 +3,7 @@ import Helmet from 'react-helmet'
 import Offerings from '../Offerings'
 import PropTypes from 'prop-types'
 import { Link } from 'gatsby'
+import Share from '../Share'
 
 const HomePageTemplate = ({
   title,
@@ -33,15 +34,19 @@ const HomePageTemplate = ({
         </div>
       </div>
     </section>
-    <section className='section section--gradient'>
+    <section className='section--gradient'>
       <div className='container'>
-
         <div className='section'>
           <div className='columns'>
             <div className='column is-10 is-offset-1'>
               <div className='content'>
                 <div>
-                  <h3 className='has-text-weight-semibold is-size-2'>
+                  <Share
+                    title="L'Open Source pour soutenir l'informatisation de la Justice / Open Source om de digitalisatie van Justitie te steunen"
+                    slug="/"
+                    excerpt="Wie kan Justitie digitaliseren? Wie mag ? - Qui sait informatiser la Justice ? Qui le peut ?"
+                  />
+                  <h3 className='has-text-weight-semibold is-size-2' style={{ martinTop:0 }}>
                     {heading}
                   </h3>
                   <p>{description}</p>
