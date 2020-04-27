@@ -15,12 +15,12 @@ Merci à ceux qui nous on rejoint de vous êtres inscrits dans ces premiers inst
 
 Je profite de cette newsletter, et du blog, pour présenter et expliquer quelques techniques et outils qu'on retrouve régulièrement au sein d'équipes dites "agiles" (horizontales, collaboratives, itération courtes, etc.) pour structurer leur emploi du temps, et tenter d’Être le plus efficace possible. La newsletter, par exemple, est avant tout une "review", une revue de ce qui à été accompli lors du dernier "sprint", ou jalon (le mot "sprint" vient du jargon, bien qu'il n'est pas le meilleur: mettre en place un service, un produit, tient plus du marathon que du 100m haies). Dans les équipes c'est également le moment de revenir sur ce qui à fonctionné, ou pas, et ce qui nous à aidé à progresser ou, au contraire, retardé. S'en suit d'habitude la planification du prochain jalon; je dis "d'habitude" car chaque équipe est libre de s'inspirer des rituels standards pour les adapter à son propre fonctionnement et améliorer leur utilité.
 
-**Semaine écoulée** (les tâches se trouvent sur [le trello](https://trello.com/b/RtFZkspO/orga>) ):
+**Semaine écoulée** (les tâches se trouvent sur [le trello](https://trello.com/b/RtFZkspO/orga) ):
 
 * L'ajout des boutons permettant de partager le projet sur les réseaux sociaux
 * Un premier message partagé sur linkedin
 * Petite mise à jour des textes du site
-* Mise à disposition d'un [google drive public](https://drive.google.com/drive/folders/1d3sVHEmuPDVnA7hHvO0cfKQrBJ-pGdjl?usp=sharing>)
+* Mise à disposition d'un [google drive public](https://drive.google.com/drive/folders/1d3sVHEmuPDVnA7hHvO0cfKQrBJ-pGdjl?usp=sharing)
 * Article sur la protection de la vie privée
 * Article sur l'accessibilité
 * Article sur les premiers dans le développement d'un service numérique
@@ -30,7 +30,7 @@ Qu'une collaboration puisse s'organiser avec le SPF Justice améliorerait sensib
 
 Une première vidéoconférence a pu avoir lieu vendredi 24 avril, dont voici les points les plus importants:
 
-* beaucoup de doutes et de questionnements subsistent en interne, ce dont la presse fait également état. J'ai souligné que ce type de problème est spécifiquement celui auxquels répondent les start-ups d'état: [découvrir une solution à un problème complexe](https://beta.gouv.fr/content/docs/guide.pdf>) ;
+* beaucoup de doutes et de questionnements subsistent en interne, ce dont la presse fait également état. J'ai souligné que ce type de problème est spécifiquement celui auxquels répondent les start-ups d'état: [découvrir une solution à un problème complexe](https://beta.gouv.fr/content/docs/guide.pdf) ;
 * trois pistes de collaboration ont été proposées, qui vont de la simple documentation technique à une coopération rapprochée ;
 * ces pistes vont être explorées, et un input du cabinet du Ministre de la Justice sera également sollicité ;
 
@@ -56,7 +56,7 @@ Ik maak gebruik van deze nieuwsbrief en van de blog om enkele technieken en hulp
 * Knoppen toegevoegd om het project op sociale netwerken te delen
 * Eerste bericht gedeeld op linkedin
 * Kleine update van siteteksten
-* Levering van een openbare [Google-drive ](https://drive.google.com/drive/folders/1d3sVHEmuPDVnA7hHvO0cfKQrBJ-pGdjl?usp=sharing>)
+* Levering van een openbare [Google-drive ](https://drive.google.com/drive/folders/1d3sVHEmuPDVnA7hHvO0cfKQrBJ-pGdjl?usp=sharing)
 * Artikel over de bescherming van de persoonlijke levenssfeer
 * Toegankelijkheidsartikel
 * Artikel over de eerste stappen in de ontwikkeling van een digitale dienst
@@ -66,7 +66,7 @@ Dat een samenwerking met de FOD Justitie zou kunnen worden georganiseerd, zou de
 
 Op vrijdag 24 april heeft een eerste videoconferentie kunnen plaatsvinden, waarvan de volgende punten de belangrijkste zijn:
 
-* intern blijven veel twijfels en vragen bestaan, waarover ook de pers bericht. Ik wees erop dat dit type probleem specifiek het probleem is waavoor overheids-start-ups worden ingezet: [het vinden van een oplossingen voor complexe problemen](https://beta.gouv.fr/content/docs/guide.pdf>) ;
+* intern blijven veel twijfels en vragen bestaan, waarover ook de pers bericht. Ik wees erop dat dit type probleem specifiek het probleem is waavoor overheids-start-ups worden ingezet: [het vinden van een oplossingen voor complexe problemen](https://beta.gouv.fr/content/docs/guide.pdf) ;
 * er werden drie samenwerkingsmogelijkheden voorgesteld, variërend van eenvoudige technische documentatie tot nauwe samenwerking ;
 * deze opties worden verkend en er wordt gevraagd naar input van het kabinet van de minister van Justitie ;
 
