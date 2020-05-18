@@ -13,8 +13,6 @@ Bonjour à toutes et à tous,
 
 Tout d’abord un grand merci pour l’intérêt et le soutien que vous apportez à justice-pourlepeuple-doorhetvolk.be ! C’est un vrai collectif que nous formons désormais, volontaire, ouvert, autonome et diablement efficace. Voyez plutôt...
 
-( Avant toute chôse, [vendredi 18 mai](https://calendar.google.com/event?action=TEMPLATE&tmeid=MWNoNmN0czBpOXNrNDgxM3ZzbTdnamhjM24gZjZybTU0MHRicmRnNzQyaGtwMW5wMmpiNGtAZw&tmsrc=f6rm540tbrdg742hkp1np2jb4k%40group.calendar.google.com) est prévu le **meetup #2** consacré à openjustice.be, de 10 à 11h. Un rappel vous sera envoyé la veille, et tout le monde est bien évidemment le bienvenu )
-
 Ce que nous avons accompli la semaine dernière:
 
 * **Publication** d’une carte blanche sur le sujet de la publication des décisions de justice, sur La Libre.be: <https://www.lalibre.be/debats/opinions/la-publication-online-des-decisions-de-justice-constats-d-urgence-5ec241c5d8ad581c54f4c501>
@@ -44,8 +42,6 @@ A propos, nous sommes à la recherche d'un.e volontaire pour remplir la fonction
 Beste mensen,
 
 Allereerst hartelijk dank voor uw interesse en steun voor justice-pourlepeuple-doorhetvolk.be ! We vormen nu een echt collectief, vrijwillig, open, autonoom en duivels effectief. Zie liever ...
-
-( Voordat we verder gaan : **[vrijdag 18 mei](https://calendar.google.com/event?action=TEMPLATE&tmeid=MWNoNmN0czBpOXNrNDgxM3ZzbTdnamhjM24gZjZybTU0MHRicmRnNzQyaGtwMW5wMmpiNGtAZw&tmsrc=f6rm540tbrdg742hkp1np2jb4k%40group.calendar.google.com) is de meetup #2** van openjustice.be gepland, van 10u tot 11u. De dag ervoor wordt u een herinnering gestuurd en iedereen is natuurlijk welkom )
 
 Wat we afgelopen week hebben bereikt:
 
